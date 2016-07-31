@@ -464,7 +464,7 @@ footer span.copyright,footer ul.quicklinks {
 }
 .team-member img {
 	margin:0 auto;
-	border:7px solid light-gray
+	border:7px solid "light-gray"
 }
 .team-member h4 {
 	margin-top:25px;
