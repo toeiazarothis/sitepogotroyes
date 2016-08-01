@@ -540,7 +540,7 @@ section h3.section-subheading {
 }
 .team-member img {
   margin: 0 auto;
-  border: 7px solid "light-gray";
+  border: 7px solid #d3d3d3;
 }
 .team-member h4 {
   margin-top: 25px;
