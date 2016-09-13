@@ -92,7 +92,7 @@ a.active,a:active,a:focus,a:hover {
 	border-color:transparent
 }
 .navbar-custom .navbar-brand {
-	color:#fed136;
+	color:#a00bc7;
 	font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
 }
 .navbar-custom .navbar-brand.active,.navbar-custom .navbar-brand:active,.navbar-custom .navbar-brand:focus,.navbar-custom .navbar-brand:hover {
@@ -655,4 +655,10 @@ img::selection {
 }
 img::-moz-selection {
 	background:0 0
+}
+.dropdown-menu{
+  background-color: #222222;
+}
+li {
+	font-color:#a00bc7;
 }

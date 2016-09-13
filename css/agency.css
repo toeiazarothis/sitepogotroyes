@@ -151,7 +151,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #fed136;
+  color: #a00bc7;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
@@ -740,6 +740,9 @@ img::selection {
 }
 img::-moz-selection {
   background: transparent;
+}
+.dropdown-menu{
+  background-color: #222222;
 }
 body {
   webkit-tap-highlight-color: #fed136;
